@@ -1,0 +1,29 @@
+.speech {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+.direction {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .5em;
+    background-color: aqua;
+}
+
+.direction:hover {
+    background-color:darkcyan;
+    color: bisque;
+}
+
+.lopakhin {
+    color: red;
+}
+
+.yasha {
+    color: green;
+}
+
+.trofimov {
+    color: yellow;
+}
