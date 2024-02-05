@@ -27,3 +27,24 @@
 .trofimov {
     color: yellow;
 }
+
+table {
+    width: 45%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+th {
+    background-color: #006747;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: gainsboro;
+}
