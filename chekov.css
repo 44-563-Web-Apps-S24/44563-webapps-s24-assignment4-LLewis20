@@ -64,3 +64,20 @@ th {
 tr:nth-child(even) {
     background-color: gainsboro;
 }
+
+nav {
+    margin: 20px auto;
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
