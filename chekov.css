@@ -20,12 +20,28 @@
     color: red;
 }
 
+.lopakhin:hover {
+    box-shadow: 5px 3px 10px green;
+    
+    border-style: solid;
+}
+
 .yasha {
     color: green;
 }
 
+.yasha:hover {
+    box-shadow: 5px 16px 2px red;
+    border-style: solid;
+}
+
 .trofimov {
     color: yellow;
+}
+
+.trofimov:hover {
+    box-shadow: 7px 8px 9px blue;
+    border-style: solid;
 }
 
 table {
